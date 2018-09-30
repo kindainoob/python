@@ -1,4 +1,4 @@
 # python
 
--ssh.py
+- ssh.py
 サーバーへsshするためのスクリプト
